@@ -1,0 +1,101 @@
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #a6b1e1;
+}
+.header{
+
+  height: 15%;
+}
+.main{
+  height: 100vh;
+}
+.img-back{
+  height: 50%;
+  margin-top: 10%;
+}
+.heading{
+  background-color: #424874;
+  height: 100px;
+}
+.logo-img{
+  position: absolute;
+  top: 10px;
+  left: 30px;
+  height: 80px;
+}
+.container{
+  height: 400px;
+  width: 1200px;
+  background-color: transparent;
+
+  margin: 0 auto 0 auto;
+}
+.content1,.content2,.content3,.content4{
+  height: 200px;
+  width:200px;
+  display: inline-block;
+  margin: 30px;
+  margin-top: 90px;
+}
+.c1-img,.c2-img,.c3-img,.c4-img{
+  width: auto;
+  height: 80%;
+  background-color: white;
+}
+.c1-txt,.c2-txt,.c3-txt,.c4-txt{
+  height: 15%;
+  width: auto;
+  background-color: #bbe1fa;
+  padding-top:5%;
+}
+.img1{
+  height: inherit;
+  margin-top: 10%;
+}
+.cont-text{
+  font-family: Original Surfer;
+  color: #424874;
+}
+.logo-text{
+  font-family: Quicksand;
+  font-size: 40px;
+  position: absolute;
+  top: 20px;
+  right: 500px;
+  color: white;
+}
+.content1:hover {
+  z-index: 1;
+  height: 220px;
+  width:220px;
+  margin: 30px;
+  margin-top: 90px;
+  border-radius: 10%;
+
+}
+.content2:hover {
+  height: 220px;
+  width:220px;
+  margin: 30px;
+  margin-top: 90px;
+}
+.content3:hover {
+
+  height: 220px;
+  width:220px;
+  margin: 30px;
+  margin-top: 90px;
+}
+.content4:hover {
+
+  height: 220px;
+  width:220px;
+  margin: 30px;
+  margin-top: 90px;
+}
+.footer{
+  background-color: #424874;
+  margin:0;
+  
+}
